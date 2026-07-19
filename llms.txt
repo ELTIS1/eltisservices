@@ -1,0 +1,20 @@
+# Eltis Services
+
+> NEN 1010 en NEN 3140 gecertificeerd installatiebedrijf, gespecialiseerd in thuisbatterijen (hoofdfocus) en laadpalen, actief in Amersfoort en omstreken en omstreken.
+
+## Diensten
+- Thuisbatterij laten installeren: advies op maat, capaciteitsberekening, installatie van veilige LFP-systemen van A-merken, geschikt voor dynamische energiecontracten. Zie: https://eltisservices.nl/thuisbatterij.html
+- Laadpaal installatie aan huis: 1-fase en 3-fase, wallbox of paal, met dynamic load balancing. Zie: https://eltisservices.nl/laadpalen.html
+- Offerte op maat via stapsgewijze calculator: https://eltisservices.nl/offerte.html
+
+## Belangrijk
+- Alle installaties volgens NEN 1010, veilig werken volgens NEN 3140.
+- Eén gecertificeerd vakman van advies tot oplevering en nazorg.
+- Reactie op aanvragen binnen 1 werkdag.
+
+## Contact
+- E-mail: info@eltisservices.nl
+- Werkgebied: Amersfoort en omstreken en omliggende plaatsen.
+
+## Kennis / blog
+- https://eltisservices.nl/blog.html
