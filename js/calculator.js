@@ -11,7 +11,7 @@
   'use strict';
 
   // >>> CONFIGUREER HIER <<<
-  var FORMSPREE_ENDPOINT = ''; // bv. 'https://formspree.io/f/xxxxxxx'
+  var FORMSPREE_ENDPOINT = ''; // bv. 'https://formspree.io/f/mwvgbbyy'
   var CONTACT_EMAIL = 'info@eltisservices.nl';
 
   var mounts = document.querySelectorAll('.calc-mount');
